@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# WhatsApp Web.js cache/auth
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
